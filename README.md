@@ -1,40 +1,67 @@
-## Hi, I'm Akshitha 👋
+<h1 align="center">Hi, I'm Akshitha 👋</h1>
 
-Frontend / Full-Stack Engineer with experience building responsive, accessible, and high-performance web applications using React, Next.js, TypeScript, and modern CSS frameworks.
+<p align="center">
+Frontend-Focused Full-Stack Engineer crafting scalable, accessible, and high-performance web experiences.
+</p>
 
-🔹 Interested in UI engineering, performance optimization, and scalable frontend architecture  
-🔹 Currently building real-world projects with Next.js, Tailwind CSS, and React Query  
-🔹 Open to Frontend, Full-Stack, and UI Engineer roles
+---
 
-### Tech Stack
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS
-- Styling: Tailwind CSS, Bootstrap
-- State & Data: React Hooks, React Query
-- Tools: Git, GitHub, Figma, Lighthouse, Vercel
+## 🎯 What I Care About
 
-### Featured Projects
-- **Traceback – Campus Finds Made Easy**  
-  Full-stack platform with ML-based matching for lost & found items  
-- **Job Application Tracker**  
-  Frontend app using Next.js App Router for tracking applications  
-- **UI Performance Dashboard**  
-  React dashboard analyzing Lighthouse metrics
+- ✨ Clean, reusable UI systems
+- ⚡ Performance optimization & Lighthouse tuning
+- ♿ Accessibility-first development (WCAG principles)
+- 🔁 Shipping real features — not just demos
 
-📫 Reach me at: akshithachapalamadugu1024@gmail.com  
-🌐 Portfolio: https://portfolio-aksh-six.vercel.app/
+---
 
+## 🛠 Tech Stack
 
-<!--
-**akshitha1024/akshitha1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend**
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS  
 
-Here are some ideas to get you started:
+**Backend**
+Node.js · REST APIs · SQL · MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools**
+Git · GitHub · Figma · Vercel · Lighthouse  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧭 Traceback – Campus Finds Made Easy
+Full-stack platform with intelligent item matching  
+Built with Next.js + Flask + ML-based search  
+
+### 📊 Job Application Tracker
+Frontend-first app using Next.js App Router + TypeScript  
+Built reusable UI systems and performance-optimized dashboards  
+
+### ⚡ UI Performance Optimization Dashboard
+React dashboard analyzing Lighthouse reports  
+Focused on load time reduction and rendering improvements  
+
+---
+
+## 💡 Engineering Philosophy
+
+I bring a frontend-first mindset with full-stack execution capability.
+
+I design systems that:
+- Scale
+- Stay maintainable
+- Feel fast
+- And prioritize user experience
+
+---
+
+## 🌐 Let’s Connect
+
+Portfolio → https://portfolio-aksh-six.vercel.app  
+LinkedIn → (your link)  
+Email → akshithachapalamadugu1024@gmail.com  
+
+---
+
+<p align="center">Currently open to Frontend & Full-Stack Engineering roles.</p>
