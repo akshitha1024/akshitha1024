@@ -59,7 +59,7 @@ I design systems that:
 ## 🌐 Let’s Connect
 
 Portfolio → https://portfolio-aksh-six.vercel.app  
-LinkedIn → (your link)  
+LinkedIn → www.linkedin.com/in/akshitha-chapalamadugu  
 Email → akshithachapalamadugu1024@gmail.com  
 
 ---
